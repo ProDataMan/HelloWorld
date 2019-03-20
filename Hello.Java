@@ -1,6 +1,5 @@
-Public class Hello{
-	Public static void main(string[] args){
-	//This will print Hello, World! to the console
-	System.Out.println("Hello, World");
+public class Hello{
+	public static void main(String[] args){
+		System.out.println("Hello, World")
 	}
 }
